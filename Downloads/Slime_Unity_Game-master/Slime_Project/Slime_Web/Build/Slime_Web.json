@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Slime",
+"dataUrl": "Slime_Web.data.unityweb",
+"asmCodeUrl": "Slime_Web.asm.code.unityweb",
+"asmMemoryUrl": "Slime_Web.asm.memory.unityweb",
+"asmFrameworkUrl": "Slime_Web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
